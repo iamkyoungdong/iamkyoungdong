@@ -1,7 +1,4 @@
-## ActivityLog
-
-**introduction**
-iamkyoungdong's Activity Log
+## ActivityLog  
 **Form**  
 year_Month_Date Verb-ing Object  
 

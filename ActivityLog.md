@@ -1,5 +1,3 @@
-<--Log My Activity-->
-
 ## Log
 **Form**  
 year_Month_Date Verb-ing Object  

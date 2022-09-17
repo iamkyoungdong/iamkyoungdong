@@ -29,7 +29,8 @@ study
 
 -->
 
-<H1> Kyoungdong
+<H1> Kyoungdong</H1>
+<H2>
   
-[My Activity](https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md)
+[My Activity](https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md) </H2>
  

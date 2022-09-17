@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **iamkyoungdong/iamkyoungdong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,7 +28,5 @@ study
 -->
 
 <H1> Kyoungdong</H1>
-<H4>
-  
-[:star:My Activity:star:](https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md) </H4>
- 
+- <H4>[:star:My Activity:star:](https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md) </H4>
+<H4>[:star:My Activity:star:](https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md) </H4>

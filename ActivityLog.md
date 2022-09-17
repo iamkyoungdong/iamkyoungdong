@@ -1,8 +1,8 @@
 ## ActivityLog  
-**Form**  
+**Log writing Form**  
 year_Month_Date Verb-ing Object  
 
-**Verb list**
+**Activity Verb list**
 - Contributing &nbsp; *(other project's link)*  
 - Competing &nbsp; *(competetion)*
 - Making &nbsp; *(project&document)*

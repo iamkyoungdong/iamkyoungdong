@@ -13,6 +13,8 @@ most used language
 
 tistory link
 
+my activity-> activity log
+
 my project
 -Link1
 -Link2
@@ -26,3 +28,5 @@ study
 
 
 -->
+
+![header](https://capsule-render.vercel.app/api?type=Transparent)

@@ -21,7 +21,8 @@ Profile
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=&color=000000&center=true&vCenter=true&width=300&lines=Hello!" alt="Typing SVG" /></a>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=&color=000000&center=true&vCenter=true&width=300&lines=I+am+Kyoungdong!" alt="Typing SVG" /></a>
-  ---
+
+---
   
 <a href="https://github.com/iamkyoungdong"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamkyoungdong&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a> <br>
 <a href="https://solved.ac/iamkyoungdong"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=iamkyoungdong"/></a> <br>

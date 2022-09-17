@@ -27,6 +27,8 @@ Profile
 
 <br>
 <a href="https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md" target="_blank">✨My Activity</a>
+<br>
 ✨My Project
+<br>
 ✨Study
 </div>

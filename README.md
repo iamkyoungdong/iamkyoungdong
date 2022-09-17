@@ -27,8 +27,8 @@ study
 
 -->
 
-<H1> Kyoungdong</H1>
-<a href="https://github.com/iamkyoungdong"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+<H3>:heartKyoungdong</H3>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamkyoungdong&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
 <H4>
 <a href="https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md" target="_blank">✨My Activity</a>
   </H4>

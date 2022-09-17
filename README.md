@@ -27,12 +27,15 @@ Profile
 <a href = "https://iamkyoungdong.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a> <br>
 
 </div>
-
+<div align="left">
 <br>
 <a href="https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md" target="_blank">✨My Activity</a>
 <br>
 ✨My Project
+<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77572&width=435&lines=To+be+continue.+.+.+%F0%9F%92%97" alt="Typing SVG" /></a>
 <br>
 ✨Study
+<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77572&width=435&lines=To+be+continue.+.+.+%F0%9F%92%97" alt="Typing SVG" /></a>
+</div>

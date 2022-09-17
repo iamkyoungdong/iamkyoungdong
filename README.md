@@ -31,6 +31,5 @@ study
 
 <H1> Kyoungdong
   
-<H4> [My Activity][https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md]
-  
+[My Activity](https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md)
  

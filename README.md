@@ -4,7 +4,6 @@ Profile
 -Number of Visit
 -Tistory link
 -solved ac profile
--Most Used Language
 
 -My Activity
 -My Project
@@ -19,9 +18,6 @@ Profile
 <H3>:star:Kyoungdong</H3>
 <div align="left">
 <br>
-
----
-  
 <a href="https://github.com/iamkyoungdong"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamkyoungdong&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a> <br>
 <a href="https://solved.ac/iamkyoungdong"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=iamkyoungdong"/></a> <br>
 <a href = "https://iamkyoungdong.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a> <br>

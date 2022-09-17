@@ -19,7 +19,7 @@ Profile
 
 <div align="center">
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=50&duration=3000&pause=&color=000000&center=true&vCenter=true&width=300&lines=Hi!+I+am+Kyoungdong!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=50&duration=3000&pause=&color=000000&center=true&vCenter=true&width=500&lines=Hi!+I+am+Kyoungdong!" alt="Typing SVG" /></a>
 
 ---
   

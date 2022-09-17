@@ -33,9 +33,8 @@ Profile
 <br>
 ✨My Project
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77572&width=435&lines=To+be+continue.+.+.+%F0%9F%92%97" alt="Typing SVG" /></a>
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&width=300&height=30&lines=To+be+continue.+.+.%F0%9F%98%9C" alt="Typing SVG" /></a>
 ✨Study
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77572&width=435&lines=To+be+continue.+.+.+%F0%9F%92%97" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=000000&width=300&height=30&lines=To+be+continue.+.+.%F0%9F%98%9C" alt="Typing SVG" /></a>
 </div>

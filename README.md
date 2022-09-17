@@ -16,10 +16,9 @@ Profile
 -->
 
 
-
-<div align="center">
+<H3>:star:Kyoungdong</H3>
+<div align="left">
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=50&duration=3000&pause=&color=000000&center=true&vCenter=true&width=500&lines=Hi!+I+am+Kyoungdong!" alt="Typing SVG" /></a>
 
 ---
   

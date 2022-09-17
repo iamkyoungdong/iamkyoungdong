@@ -29,6 +29,8 @@ study
 
 <H1> Kyoungdong</H1>
 <H4>
-[✨My Activity] (https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md)
+<a href="https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md" target="_blank">✨My Activity</a>
   <H4>
 [💫Tistory Blog] (https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md)
+    
+

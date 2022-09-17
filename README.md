@@ -33,7 +33,8 @@ study
 <a> <a href = "https://iamkyoungdong.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/>
 
 <H5>Info</H5>
-[![Solved.ac iamkyoungdong](http://mazassumnida.wtf/api/mini/generate_badge?boj=iamkyoungdong)](https://solved.ac/iamkyoungdong)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=iamkyoungdong)](https://solved.ac/iamkyoungdong)
 <H4>
 <a href="https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md" target="_blank">✨My Activity</a>
 </H4>

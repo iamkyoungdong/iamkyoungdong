@@ -35,4 +35,5 @@ study
 <H4>
 <a href="https://iamkyoungdong.tistory.com/" target="_blank">💫Tistory Blog</a>
   </H4>
+ </a> <a href = "https://iamkyoungdong.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/>
 

@@ -15,11 +15,11 @@ Profile
 --etc.
 -->
 
-<H3> :penguin:kyoungdong </H3>
+
 
 <div align="center">
 
-  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=30&duration=3000&pause=&color=000000&center=true&vCenter=true&width=300&lines=Hello!;I+am+kyoung+dong!" alt="Typing SVG" /></a>
   ---
   
 <a href="https://github.com/iamkyoungdong"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamkyoungdong&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a> <br>

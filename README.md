@@ -35,4 +35,6 @@ study
 <H4>
 <a href="https://iamkyoungdong.tistory.com/" target="_blank">💫Tistory Blog</a>
   </H4>
-
+<body link="black" vlink="black" alink="navy">
+	<a href="https://www.naver.com/">Naver</a>
+</body>

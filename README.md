@@ -30,7 +30,7 @@ study
 -->
 
 <H1> Kyoungdong</H1>
-<H4>
+<H2>
   
-[My Activity](https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md) </H4>
+[My Activity:star:](https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md) </H2>
  

@@ -29,4 +29,4 @@ study
 
 -->
 
-![header](https://capsule-render.vercel.app/api?type=Transparent&text = Kyoungdong)
+![header](https://capsule-render.vercel.app/api?type=Transparent&text=Kyoungdong%20)

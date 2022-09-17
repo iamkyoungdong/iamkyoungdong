@@ -29,8 +29,5 @@ study
 
 <H1> Kyoungdong</H1>
 <H4>
-[:star:My Activity:star:] (https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md) 
-</H4>
-<H4>
-[💫Tistory Blog:dizzy:] (https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md) 
-</H4>
+[✨My Activity] (https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md)
+[💫Tistory Blog] (https://github.com/iamkyoungdong/iamkyoungdong/blob/main/ActivityLog.md)

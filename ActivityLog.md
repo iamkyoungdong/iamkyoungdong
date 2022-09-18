@@ -13,7 +13,4 @@ year_Month_Date Verb-ing Object
 
 -->
 
-2022_09_16 Starting GitHub  
-2022_09_16 Starting Kaggle  
-2022_09_17 Making My GitHub Profile  
-2022_09_17 Planning Collaborative IDE project
+2022_09_16 Starting GitHub & Kaggle  
